@@ -7,9 +7,6 @@ Components:
 - 2 LEDs
 - 2 x 1 kOhm resistors.
 
-Tools:
--Arduino IDE 2.0
+Tools: Arduino IDE 2.0
 
-Library:
--FreRTOS
--SoftwareSerial
+Library:FreRTOS,SoftwareSerial
