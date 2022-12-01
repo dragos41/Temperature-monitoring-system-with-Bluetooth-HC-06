@@ -9,4 +9,4 @@ Components:
 
 Tools: Arduino IDE 2.0
 
-Library:FreRTOS,SoftwareSerial
+Library: FreRTOS, SoftwareSerial
